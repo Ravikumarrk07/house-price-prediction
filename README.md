@@ -1,2 +1,2 @@
-# house-price-prediction
+# Loan-approval-prediction
 machine learning
